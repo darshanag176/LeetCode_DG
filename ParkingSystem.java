@@ -1,6 +1,6 @@
 class ParkingSystem {
     HashMap <Integer, Integer> parkingSize;
-    
+    //added parking system 
     public ParkingSystem(int big, int medium, int small) {
         
         parkingSize = new HashMap<>();
