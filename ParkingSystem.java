@@ -11,6 +11,7 @@ class ParkingSystem {
         
     }
     
+    // for adding car into the parking system
     public boolean addCar(int carType) {
         int temp = parkingSize.get(carType); 
         if( temp != 0){
